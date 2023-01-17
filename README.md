@@ -1,6 +1,4 @@
 # efficientdet_automl_IPU
-IPU porting efficientdet d2
-# efficientdet_automl_IPU
 IPU porting efficientdet-d2
 
 ## Environment setup
